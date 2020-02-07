@@ -1,0 +1,4 @@
+-Javascript harus kelar
+-Harus bisa bikin aplikasi Android
+-Python harus bisa
+=Golang juga sama

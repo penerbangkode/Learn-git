@@ -1,4 +1,5 @@
 -Javascript harus kelar
 -Harus bisa bikin aplikasi Android
 -Python harus bisa
-=Golang juga sama
+-Golang juga sama
+-API please
